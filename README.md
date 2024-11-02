@@ -1,6 +1,8 @@
 ## Sodoku Solver
 Visualizer(at various speeds) for backtracking algorithm used to solve a valid sudoku board.
 
+![Screenshot 2021-09-20 at 2 52 40 PM](https://user-images.githubusercontent.com/22812597/133980764-5ad36ade-84ae-4566-88c0-0fb7d163cb94.png)
+
 ## Steps to run
 
 ### Install dependencies
